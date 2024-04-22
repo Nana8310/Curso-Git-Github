@@ -1,5 +1,0 @@
-Fase 2: Area encargada de la correción de errores
-Fase 2.1:Correcion de números duplicados de los clientes
-Fase 2.2:Correccón nombres y cédulas de los clientes
-
-
