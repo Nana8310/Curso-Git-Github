@@ -1,0 +1,2 @@
+Definición de tareas
+1-Borrar textos dúplicados
