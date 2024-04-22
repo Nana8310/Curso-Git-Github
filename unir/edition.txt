@@ -1,3 +1,4 @@
 Fases del proyecto a ejecución
-Contratación del personal
-Contratación del transporte
+Fase1:Contratación del personal
+Fase2:Contratación del transporte
+Fase3:Compra de dotación
