@@ -2,4 +2,5 @@ Fases del proyecto a ejecución
 Fase1:Contratación del personal
 Fase2:Contratación del transporte
 Fase3:Compra de dotación
-Fase4:compra de herramiente
+Fase4:Compra de herramienta
+Fase5:Compra de muebles
