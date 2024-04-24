@@ -1,2 +1,3 @@
-print("¡ Hola Ruby !")
+print("¡ Hola Scala !")
 #Esto significa imprimir pantalla
+print("¡Hola GitHub!")
